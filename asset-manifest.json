@@ -1,23 +1,25 @@
 {
   "files": {
-    "main.css": "/stockdash_front/static/css/main.a422e9ec.chunk.css",
-    "main.js": "/stockdash_front/static/js/main.65d13b75.chunk.js",
-    "main.js.map": "/stockdash_front/static/js/main.65d13b75.chunk.js.map",
-    "runtime-main.js": "/stockdash_front/static/js/runtime-main.973b8da2.js",
-    "runtime-main.js.map": "/stockdash_front/static/js/runtime-main.973b8da2.js.map",
-    "static/js/2.13209654.chunk.js": "/stockdash_front/static/js/2.13209654.chunk.js",
-    "static/js/2.13209654.chunk.js.map": "/stockdash_front/static/js/2.13209654.chunk.js.map",
-    "static/js/3.68644536.chunk.js": "/stockdash_front/static/js/3.68644536.chunk.js",
-    "static/js/3.68644536.chunk.js.map": "/stockdash_front/static/js/3.68644536.chunk.js.map",
+    "main.css": "/stockdash_front/static/css/main.f14a143d.chunk.css",
+    "main.js": "/stockdash_front/static/js/main.0bf89ee0.chunk.js",
+    "main.js.map": "/stockdash_front/static/js/main.0bf89ee0.chunk.js.map",
+    "runtime-main.js": "/stockdash_front/static/js/runtime-main.aef50b88.js",
+    "runtime-main.js.map": "/stockdash_front/static/js/runtime-main.aef50b88.js.map",
+    "static/css/2.150d169a.chunk.css": "/stockdash_front/static/css/2.150d169a.chunk.css",
+    "static/js/2.a74f6697.chunk.js": "/stockdash_front/static/js/2.a74f6697.chunk.js",
+    "static/js/2.a74f6697.chunk.js.map": "/stockdash_front/static/js/2.a74f6697.chunk.js.map",
+    "static/js/3.bcbffb2d.chunk.js": "/stockdash_front/static/js/3.bcbffb2d.chunk.js",
+    "static/js/3.bcbffb2d.chunk.js.map": "/stockdash_front/static/js/3.bcbffb2d.chunk.js.map",
     "index.html": "/stockdash_front/index.html",
-    "static/css/main.a422e9ec.chunk.css.map": "/stockdash_front/static/css/main.a422e9ec.chunk.css.map",
-    "static/js/2.13209654.chunk.js.LICENSE.txt": "/stockdash_front/static/js/2.13209654.chunk.js.LICENSE.txt",
-    "static/media/logo.6ce24c58.svg": "/stockdash_front/static/media/logo.6ce24c58.svg"
+    "static/css/2.150d169a.chunk.css.map": "/stockdash_front/static/css/2.150d169a.chunk.css.map",
+    "static/css/main.f14a143d.chunk.css.map": "/stockdash_front/static/css/main.f14a143d.chunk.css.map",
+    "static/js/2.a74f6697.chunk.js.LICENSE.txt": "/stockdash_front/static/js/2.a74f6697.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.973b8da2.js",
-    "static/js/2.13209654.chunk.js",
-    "static/css/main.a422e9ec.chunk.css",
-    "static/js/main.65d13b75.chunk.js"
+    "static/js/runtime-main.aef50b88.js",
+    "static/css/2.150d169a.chunk.css",
+    "static/js/2.a74f6697.chunk.js",
+    "static/css/main.f14a143d.chunk.css",
+    "static/js/main.0bf89ee0.chunk.js"
   ]
 }
